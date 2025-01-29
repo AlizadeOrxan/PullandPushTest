@@ -5,5 +5,7 @@ public class Main {
 
         System.out.println("Its test for pushing");
 
+        System.out.println("ITs my first pul test");
+
         }
     }
